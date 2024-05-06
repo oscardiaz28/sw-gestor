@@ -28,9 +28,9 @@
         </nav>
         
         <div class="login">
-            <div class="box" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300">
+            <div class="box">
                 <div class="login_container">
-                    <h2 class="text-3xl font-medium">Registrate</h2>
+                    <h2 class="text-g3xl font-medium">Registrate</h2>
                 </div>
                 <form action="" class="form" method="POST">
                     <div class="form_group">
