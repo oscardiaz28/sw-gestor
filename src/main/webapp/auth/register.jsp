@@ -30,7 +30,7 @@
         <div class="login">
             <div class="box">
                 <div class="login_container">
-                    <h2 class="text-g3xl font-medium">Registrate</h2>
+                    <h2 class="text-3xl font-medium">Registrate</h2>
                 </div>
                 <form action="" class="form" method="POST">
                     <div class="form_group">
